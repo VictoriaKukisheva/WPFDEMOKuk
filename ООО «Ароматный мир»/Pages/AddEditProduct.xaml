@@ -1,0 +1,86 @@
+﻿<Page x:Class="ООО__Ароматный_мир_.Pages.AddEditProduct"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ООО__Ароматный_мир_.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddEditProduct">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="1.5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Введите артикул: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="0" Grid.Column="0"/>
+        <TextBox x:Name="articleProductTB" Text="{Binding ProductArticleNumber}" Grid.Row="0" Grid.Column="1" Style="{StaticResource TextBox}"/>
+
+        <TextBlock Text="Введите название: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="1" Grid.Column="0"/>
+        <TextBox x:Name="nameProductTB" Text="{Binding ProductName}" Grid.Row="1" Grid.Column="1" Style="{StaticResource TextBox}"/>
+
+        <TextBlock Text="Введите описание: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="2" Grid.Column="0"/>
+        <TextBox x:Name="descProductTB" Text="{Binding ProductDescription}" Grid.Row="2" Grid.Column="1" Style="{StaticResource TextBox}"/>
+
+        <TextBlock Text="Выберите поставщика: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="3" Grid.Column="0"/>
+        <ComboBox Name="cbSupplier" Grid.Column="1" Grid.Row="3"/>
+
+        <TextBlock Text="Выберите производителя: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="4" Grid.Column="0"/>
+        <ComboBox Name="cbManufacturer" Grid.Column="1" Grid.Row="4"/>
+
+        <TextBlock Text="Ведите цену: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="5" Grid.Column="0"/>
+        <TextBox x:Name="costProductTB" Text="{Binding ProductCost}" Grid.Row="5" Grid.Column="1" Style="{StaticResource TextBox}"/>
+        
+        <TextBlock Text="Ведите скидку действующую: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="6" Grid.Column="0"/>
+        <TextBox x:Name="dicountAmountProductTB" Text="{Binding ProductDiscountAmount}" Grid.Row="6" Grid.Column="1" Style="{StaticResource TextBox}"/>
+
+        <TextBlock Text="Ведите количество на складе: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="0" Grid.Column="2"/>
+        <TextBox x:Name="countOnStageProductTB" Text="{Binding ProductQuantityInStock}" Grid.Row="0" Grid.Column="3" Style="{StaticResource TextBox}"/>
+
+        <TextBlock Text="Ведите статус: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="1" Grid.Column="2"/>
+        <TextBox x:Name="statusProductTB" Text="{Binding ProductStatus}" Grid.Row="1" Grid.Column="3" Style="{StaticResource TextBox}"/>
+
+        <TextBlock Text="Выберите категорию: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="2" Grid.Column="2"/>
+        <ComboBox Name="cbCategory" Grid.Column="3" Grid.Row="2"/>
+
+        <TextBlock Text="Выберите фото: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="3" Grid.Column="2"/>
+        <Button x:Name="AddImage" Content="Добавить фото" Click="AddImage_Click" Grid.Column="3" Grid.Row="3" Style="{StaticResource btn}"/>
+
+        <TextBlock Text="Выберите тип: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="4" Grid.Column="2"/>
+        <ComboBox Name="cbUnit" Grid.Column="3" Grid.Row="4"/>
+
+        <TextBlock Text="Введите максимальную скидку: " Style="{StaticResource AuthTbl}" VerticalAlignment="Center"
+                   Grid.Row="5" Grid.Column="2"/>
+        <TextBox x:Name="maxDiscountProductTB" Text="{Binding ProductMaxDiscount}" Grid.Row="5" Grid.Column="3" Style="{StaticResource TextBox}"/>
+
+        <Button x:Name="AddEditData" Content="Добавить" Style="{StaticResource btn}" Width="150" Grid.Column="0" Grid.Row="7" Grid.ColumnSpan="2"/>
+        <Button x:Name="DeleteData" Content="Удалить" Style="{StaticResource btn}" Width="150" Grid.Column="1" Grid.Row="7" Grid.ColumnSpan="2"/>
+
+        <Button x:Name="Back" Content="Назад" Style="{StaticResource btn}" Width="150" Grid.Column="3" Grid.Row="7"/>
+    </Grid>
+</Page>

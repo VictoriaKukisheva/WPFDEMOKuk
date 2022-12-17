@@ -1,0 +1,32 @@
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\bin\Debug\ООО «Ароматный мир».exe.config
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\bin\Debug\ООО «Ароматный мир».exe
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\bin\Debug\ООО «Ароматный мир».pdb
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\bin\Debug\EntityFramework.dll
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\bin\Debug\EntityFramework.xml
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир».csproj.AssemblyReference.cache
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир».csproj.SuggestedBindingRedirects.cache
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Windows\Authtorization.g.cs
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\App.g.cs
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир»_Content.g.cs
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир»_MarkupCompile.cache
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир»_MarkupCompile.lref
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\App.baml
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Pages\ProductPage.baml
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Windows\MainWindow.baml
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Windows\Authtorization.baml
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир».g.resources
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО__Ароматный_мир_.Properties.Resources.resources
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир».csproj.GenerateResource.cache
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир».csproj.CoreCompileInputs.cache
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир».csproj.CopyComplete
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир».exe
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\ООО «Ароматный мир».pdb
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Pages\AddEditProduct.g.cs
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Pages\AddEditProduct.baml
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\10190162\source\repos\ООО «Ароматный мир»\ООО «Ароматный мир»\obj\Debug\Pages\OrderPage.baml
